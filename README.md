@@ -35,7 +35,10 @@ Before running the script, you need to have the following installed:
    bash
    pip install pytubefix ffmpeg-python alive-progress termcolor
    
-4. **Install FFmpeg**:
+   bash
+   pip install -r requirements.txt
+   
+5. **Install FFmpeg**:
 
    * On **Linux (Ubuntu/Debian)**:
 
